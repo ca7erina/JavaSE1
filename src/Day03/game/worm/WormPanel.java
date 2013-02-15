@@ -1,7 +1,7 @@
 package Day03.game.worm;
 
 
-/** ���ڵ���� */
+
 public class WormPanel {
   private Worm worm;
   
