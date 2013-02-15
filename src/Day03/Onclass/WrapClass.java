@@ -1,4 +1,4 @@
-package day03.Onclass;
+package Day03.Onclass;
 
 public class WrapClass {
 

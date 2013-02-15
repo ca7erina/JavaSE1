@@ -1,4 +1,4 @@
-package day03.assignments.comparator;
+package Day03.assignments.comparator;
 import java.util.*;
 public class CompareDemo {
 

@@ -1,4 +1,4 @@
-package day03.game.worm;
+package Day03.game.worm;
 
 import java.util.LinkedList;
 

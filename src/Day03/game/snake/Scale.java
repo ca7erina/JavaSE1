@@ -1,4 +1,4 @@
-package day03.game.snake;
+package Day03.game.snake;
 
 public class Scale {
 	private int j;

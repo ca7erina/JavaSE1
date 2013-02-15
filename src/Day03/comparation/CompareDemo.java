@@ -1,4 +1,4 @@
-package day03.comparation;
+package Day03.comparation;
 import java.util.*;
 public class CompareDemo {
 

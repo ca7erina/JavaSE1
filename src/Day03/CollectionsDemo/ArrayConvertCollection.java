@@ -1,4 +1,4 @@
-package day03.CollectionsDemo;
+package Day03.CollectionsDemo;
 import java.util.*;
 public class ArrayConvertCollection {
 

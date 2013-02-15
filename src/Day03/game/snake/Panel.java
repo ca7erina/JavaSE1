@@ -1,4 +1,4 @@
-package day03.game.snake;
+package Day03.game.snake;
 
 import java.util.*;
 

@@ -1,7 +1,7 @@
-package day03.game.snake;
+package Day03.game.snake;
 
 import java.util.*;
-import day03.game.snake.Panel.Snake;
+import Day03.game.snake.Panel.Snake;
 
 public class Play {
 	public static void main(String[] args) {

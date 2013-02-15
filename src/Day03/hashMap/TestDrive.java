@@ -1,4 +1,4 @@
-package day03.hashMap;
+package Day03.hashMap;
 import java.util.HashMap;
 public class TestDrive {
 	public static void main(String[] args) {

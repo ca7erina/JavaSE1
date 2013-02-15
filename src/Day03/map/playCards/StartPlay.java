@@ -1,4 +1,4 @@
-package day03.map.playCards;
+package Day03.map.playCards;
 import java.util.*;
 public class StartPlay {
 	public static void main(String[] args) {		

@@ -1,4 +1,4 @@
-package day03.CollectionsDemo;
+package Day03.CollectionsDemo;
 
 public class TestDriveComparation {
 
