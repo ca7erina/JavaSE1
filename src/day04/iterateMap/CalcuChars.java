@@ -53,6 +53,7 @@ public class CalcuChars {
 		 */
 		Set<Entry<Character,Integer>> entrySet=map.entrySet();
 		List<Entry<Character,Integer>> list=new ArrayList<Entry<Character,Integer>>(entrySet);
+		
 		Collections.sort(list,new ByValue());
 		
 		System.out.println("\n\nTOP 10 : \n");

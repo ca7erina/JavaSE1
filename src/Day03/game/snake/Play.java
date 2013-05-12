@@ -5,6 +5,7 @@ import Day03.game.snake.Panel.Snake;
 
 public class Play {
 	public static void main(String[] args) {
+		System.out.println("werewr");
 		try {
 			Panel panel = new Panel();
 			panel.setScale(20, 40);
